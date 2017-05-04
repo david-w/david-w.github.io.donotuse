@@ -34,3 +34,12 @@ Or, if you prefer, __use two underscores instead__.
 but what does ***this*** do?   
 how about ****this****?
 and *****this*****?
+
+## Lists ##
+1.  Red
+2.  Green
+3.  Blue
+
+1  Red
+2  Green
+3  Blue
