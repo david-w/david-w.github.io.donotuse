@@ -15,3 +15,7 @@ A First Level Header
 
 A Second Level Header
 ---------------------
+
+# Also a first level header
+
+## and a second level header
