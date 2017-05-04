@@ -6,3 +6,4 @@
 
 ### Checking out markdown
 ***
+Markdown is pretty cool.
