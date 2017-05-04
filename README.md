@@ -6,4 +6,6 @@
 
 ### Checking out markdown
 ***
-Markdown is pretty cool.
+[Markdown][md] is pretty cool.
+
+[md]: http://daringfireball.net/projects/markdown/
